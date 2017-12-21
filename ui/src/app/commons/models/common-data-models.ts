@@ -195,3 +195,17 @@ export class API {
     createdBy: string;
 }
 
+export class Payload {
+    valid: string[];
+    invalid: string[];
+    validationRegex: string;
+    prefixGroup: number;
+    digitsGroup: number;
+}
+
+export class MsisdnValidation {
+    payload: Payload;
+    success: string;
+    message: string;
+}
+
