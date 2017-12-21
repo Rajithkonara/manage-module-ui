@@ -205,7 +205,7 @@ export class Payload {
 
 export class MsisdnValidation {
     payload: Payload;
-    success: string;
+    success: boolean;
     message: string;
 }
 

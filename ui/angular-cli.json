@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "/home/manoj/WSO2TelcoProjects/WSO2Telco4/wso2telcohub-2.2.1-SNAPSHOT/repository/deployment/server/webapps/manage-service/public",
+      "outDir": "/home/rajithk/Documents/telco/wso2t/telco-hub/Java_manage_Hub/wso2telcohub-2.2.1-SNAPSHOT/repository/deployment/server/webapps/manage-service/public",
       "assets": [
         "images",
         "assets",
